@@ -1,0 +1,22 @@
+{"time":"2024-09-23T15:26:57.693133+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:26:57.693162+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_152655-gucpdxca/logs/debug-core.log"}
+{"time":"2024-09-23T15:26:57.693213+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:26:57.693219+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_152655-gucpdxca/logs/debug-core.log"}
+{"time":"2024-09-23T15:26:57.696915+02:00","level":"INFO","msg":"created new stream","id":"gucpdxca"}
+{"time":"2024-09-23T15:26:57.696944+02:00","level":"INFO","msg":"stream: started","id":"gucpdxca"}
+{"time":"2024-09-23T15:26:57.696953+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:26:57.696983+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:26:57.696977+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:26:58.11829+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T15:26:58.118774+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T15:30:03.885222+02:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/tinghui/deeplearning_week4/gucpdxca/file_stream"}
+{"time":"2024-09-23T15:30:28.7454+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T15:31:43.741479+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T15:38:28.977973+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T15:38:42.707381+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T15:38:42.707431+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T15:38:45.349367+02:00","level":"INFO","msg":"stream: closing","id":"gucpdxca"}
+{"time":"2024-09-23T15:38:45.349399+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:38:45.349432+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:38:45.349425+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gucpdxca"}}
+{"time":"2024-09-23T15:38:45.349519+02:00","level":"INFO","msg":"stream: closed","id":"gucpdxca"}

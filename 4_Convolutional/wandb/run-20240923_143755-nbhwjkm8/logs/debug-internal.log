@@ -1,0 +1,24 @@
+{"time":"2024-09-23T14:37:55.337442+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:37:55.337473+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_143755-nbhwjkm8/logs/debug-core.log"}
+{"time":"2024-09-23T14:37:55.337522+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:37:55.337528+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_143755-nbhwjkm8/logs/debug-core.log"}
+{"time":"2024-09-23T14:37:55.341796+02:00","level":"INFO","msg":"created new stream","id":"nbhwjkm8"}
+{"time":"2024-09-23T14:37:55.341838+02:00","level":"INFO","msg":"stream: started","id":"nbhwjkm8"}
+{"time":"2024-09-23T14:37:55.341881+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:37:55.341859+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:37:55.341872+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:37:55.668131+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T14:37:55.669279+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T14:38:02.474362+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T14:38:33.226749+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T14:38:33.229298+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T14:38:38.000666+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T14:38:38.003273+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T14:38:40.62797+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T14:38:40.639929+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T14:38:40.640019+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T14:38:44.647948+02:00","level":"INFO","msg":"stream: closing","id":"nbhwjkm8"}
+{"time":"2024-09-23T14:38:44.648062+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:38:44.648156+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:38:44.648204+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"nbhwjkm8"}}
+{"time":"2024-09-23T14:38:44.64849+02:00","level":"INFO","msg":"stream: closed","id":"nbhwjkm8"}

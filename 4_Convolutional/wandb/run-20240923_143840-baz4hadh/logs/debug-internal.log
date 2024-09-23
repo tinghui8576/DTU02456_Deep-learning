@@ -1,0 +1,18 @@
+{"time":"2024-09-23T14:38:44.752426+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:38:44.752461+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_143840-baz4hadh/logs/debug-core.log"}
+{"time":"2024-09-23T14:38:44.752519+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:38:44.752525+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_143840-baz4hadh/logs/debug-core.log"}
+{"time":"2024-09-23T14:38:44.757995+02:00","level":"INFO","msg":"created new stream","id":"baz4hadh"}
+{"time":"2024-09-23T14:38:44.758029+02:00","level":"INFO","msg":"stream: started","id":"baz4hadh"}
+{"time":"2024-09-23T14:38:44.75805+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:38:44.758061+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:38:44.758066+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:38:45.129757+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T14:38:45.130401+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T14:42:35.517299+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T14:42:35.517452+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T14:42:38.687065+02:00","level":"INFO","msg":"stream: closing","id":"baz4hadh"}
+{"time":"2024-09-23T14:42:38.687249+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:42:38.687291+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:42:38.687304+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"baz4hadh"}}
+{"time":"2024-09-23T14:42:38.687491+02:00","level":"INFO","msg":"stream: closed","id":"baz4hadh"}

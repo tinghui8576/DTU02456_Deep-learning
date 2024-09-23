@@ -1,0 +1,128 @@
+Step 500     training accuracy: 0.23521875
+             test accuracy: 0.3203
+Step 1000    training accuracy: 0.3486238532110092
+             test accuracy: 0.3672
+Step 1500    training accuracy: 0.371
+             test accuracy: 0.3874
+Step 2000    training accuracy: 0.39750573394495414
+             test accuracy: 0.4135
+Step 2500    training accuracy: 0.42157061688311687
+             test accuracy: 0.4292
+Step 3000    training accuracy: 0.43803125
+             test accuracy: 0.4509
+Step 3500    training accuracy: 0.4592993951612903
+             test accuracy: 0.4596
+Step 4000    training accuracy: 0.46597222222222223
+             test accuracy: 0.4708
+Step 4500    training accuracy: 0.4734375
+             test accuracy: 0.4788
+Step 5000    training accuracy: 0.48681006493506496
+             test accuracy: 0.4789
+Step 5500    training accuracy: 0.5162259615384616
+             test accuracy: 0.484
+Step 6000    training accuracy: 0.49615625
+             test accuracy: 0.495
+Step 6500    training accuracy: 0.5039702868852459
+             test accuracy: 0.4954
+Step 7000    training accuracy: 0.5103125
+             test accuracy: 0.5056
+Step 7500    training accuracy: 0.5154897186147186
+             test accuracy: 0.5049
+Finished training.
+    TRUE        PREDICTED
+-----------------------------
+     cat           cat
+    ship       automobile
+    ship       automobile
+  airplane        ship
+    frog          frog
+    frog          frog
+ automobile        cat
+    frog          frog
+     cat           dog
+ automobile    automobile
+  airplane        ship
+    truck         truck
+     dog          frog
+    horse         horse
+    truck         truck
+    ship          deer
+     dog           dog
+    horse          cat
+    ship          ship
+    frog          frog
+    horse         horse
+  airplane      airplane
+    deer          ship
+    truck         truck
+     dog          bird
+    bird          frog
+    deer          frog
+  airplane        deer
+    truck         truck
+    frog          frog
+    frog          frog
+     dog          bird
+    deer          ship
+     dog          frog
+    truck         truck
+    bird           cat
+    deer          frog
+ automobile       truck
+    truck         truck
+     dog           dog
+    deer          truck
+    frog          frog
+     dog           dog
+    frog          frog
+  airplane      airplane
+    truck         truck
+     cat           cat
+    truck         horse
+    horse         horse
+    frog          frog
+    truck         truck
+    ship          ship
+  airplane        frog
+     cat           cat
+    ship          ship
+    ship          ship
+    horse         horse
+    horse         truck
+    deer           dog
+    frog          deer
+    horse         horse
+     cat           cat
+    frog          frog
+     cat       automobile
+Test accuracy: 0.511
+Model(
+  (conv1): Conv2d(3, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 15, kernel_size=(5, 5), stride=(1, 1))
+  (pool): MaxPool2d(kernel_size=(2, 2), stride=(2, 2), padding=0, dilation=1, ceil_mode=False)
+  (conv3): Conv2d(25, 25, kernel_size=(5, 5), stride=(1, 1))
+  (conv4): Conv2d(25, 25, kernel_size=(5, 5), stride=(1, 1))
+  (fc1): Linear(in_features=100, out_features=200, bias=True)
+  (fc2): Linear(in_features=200, out_features=100, bias=True)
+  (fc3): Linear(in_features=100, out_features=50, bias=True)
+  (fc4): Linear(in_features=50, out_features=10, bias=True)
+)
+Model(
+  (conv1): Conv2d(3, 6, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (pool): MaxPool2d(kernel_size=(2, 2), stride=(2, 2), padding=0, dilation=1, ceil_mode=False)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=60, bias=True)
+  (fc3): Linear(in_features=60, out_features=10, bias=True)
+)
+Output shape: torch.Size([2, 10])
+Output logits:
+[[ 0.04040653  0.07624682  0.10506812 -0.12092371  0.02469447  0.01854701
+   0.02372419  0.00230454  0.14076239 -0.21423058]
+ [ 0.04196115  0.08414412  0.12022823 -0.13798927  0.02565168  0.01481381
+  -0.01425702  0.00932027  0.12599726 -0.22165242]]
+Output probabilities:
+[[0.1026281  0.10637303 0.10948344 0.08733764 0.1010282  0.10040904
+  0.10093022 0.09879132 0.11346196 0.07955707]
+ [0.10324173 0.10768992 0.11164678 0.08623902 0.10157157 0.10047668
+  0.09759779 0.09992623 0.11229274 0.07931755]]

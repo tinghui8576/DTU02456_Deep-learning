@@ -1,0 +1,224 @@
+Step 500     training accuracy: 0.1979375
+             test accuracy: 0.2502
+Step 1000    training accuracy: 0.33307052752293576
+             test accuracy: 0.346
+Step 1500    training accuracy: 0.34784375
+             test accuracy: 0.3586
+Step 2000    training accuracy: 0.3791212729357798
+             test accuracy: 0.3859
+Step 2500    training accuracy: 0.40594561688311687
+             test accuracy: 0.4058
+Step 3000    training accuracy: 0.41875
+             test accuracy: 0.4322
+Step 3500    training accuracy: 0.439432123655914
+             test accuracy: 0.4549
+Step 4000    training accuracy: 0.4609375
+             test accuracy: 0.4592
+Step 4500    training accuracy: 0.46546875
+             test accuracy: 0.4722
+Step 5000    training accuracy: 0.4830560064935065
+             test accuracy: 0.4906
+Step 5500    training accuracy: 0.4873798076923077
+             test accuracy: 0.4912
+Step 6000    training accuracy: 0.499375
+             test accuracy: 0.5046
+Step 6500    training accuracy: 0.5062115778688525
+             test accuracy: 0.5136
+Step 7000    training accuracy: 0.5205625
+             test accuracy: 0.5209
+Step 7500    training accuracy: 0.5275974025974026
+             test accuracy: 0.5198
+Step 8000    training accuracy: 0.5307291666666667
+             test accuracy: 0.5269
+Step 8500    training accuracy: 0.54278125
+             test accuracy: 0.5297
+Step 9000    training accuracy: 0.5509186557788944
+             test accuracy: 0.5432
+Step 9500    training accuracy: 0.5602101293103449
+             test accuracy: 0.5417
+Step 10000   training accuracy: 0.5563125
+             test accuracy: 0.5477
+Step 10500   training accuracy: 0.5652133233532934
+             test accuracy: 0.5547
+Step 11000   training accuracy: 0.5862379807692307
+             test accuracy: 0.5639
+Step 11500   training accuracy: 0.57234375
+             test accuracy: 0.5693
+Step 12000   training accuracy: 0.5877314814814815
+             test accuracy: 0.5724
+Step 12500   training accuracy: 0.5798125
+             test accuracy: 0.577
+Step 13000   training accuracy: 0.5901639344262295
+             test accuracy: 0.5805
+Step 13500   training accuracy: 0.6037621359223301
+             test accuracy: 0.5835
+Step 14000   training accuracy: 0.59875
+             test accuracy: 0.5886
+Step 14500   training accuracy: 0.6062426297169812
+             test accuracy: 0.5952
+Step 15000   training accuracy: 0.6123459507042254
+             test accuracy: 0.5934
+Step 15500   training accuracy: 0.61178125
+             test accuracy: 0.5973
+Step 16000   training accuracy: 0.6135850694444445
+             test accuracy: 0.5989
+Step 16500   training accuracy: 0.6231971153846154
+             test accuracy: 0.6
+Step 17000   training accuracy: 0.61840625
+             test accuracy: 0.6116
+Step 17500   training accuracy: 0.634448902027027
+             test accuracy: 0.6136
+Step 18000   training accuracy: 0.6339285714285714
+             test accuracy: 0.6142
+Step 18500   training accuracy: 0.6345625
+             test accuracy: 0.6209
+Step 19000   training accuracy: 0.6408270474137931
+             test accuracy: 0.6228
+Step 19500   training accuracy: 0.6375625
+             test accuracy: 0.6209
+Step 20000   training accuracy: 0.6421180555555556
+             test accuracy: 0.6215
+Step 20500   training accuracy: 0.6449032738095238
+             test accuracy: 0.623
+Step 21000   training accuracy: 0.6468125
+             test accuracy: 0.626
+Step 21500   training accuracy: 0.6496113989637305
+             test accuracy: 0.6314
+Step 22000   training accuracy: 0.6556490384615384
+             test accuracy: 0.6323
+Step 22500   training accuracy: 0.654375
+             test accuracy: 0.6357
+Step 23000   training accuracy: 0.6629464285714286
+             test accuracy: 0.6381
+Step 23500   training accuracy: 0.666796875
+             test accuracy: 0.6304
+Step 24000   training accuracy: 0.66284375
+             test accuracy: 0.637
+Step 24500   training accuracy: 0.6697553294573644
+             test accuracy: 0.6397
+Step 25000   training accuracy: 0.6664375
+             test accuracy: 0.646
+Step 25500   training accuracy: 0.6736475840336135
+             test accuracy: 0.6456
+Step 26000   training accuracy: 0.6753382731958762
+             test accuracy: 0.6457
+Step 26500   training accuracy: 0.67746875
+             test accuracy: 0.6425
+Step 27000   training accuracy: 0.6781705097087378
+             test accuracy: 0.6488
+Step 27500   training accuracy: 0.6858173076923076
+             test accuracy: 0.651
+Step 28000   training accuracy: 0.68359375
+             test accuracy: 0.6462
+Step 28500   training accuracy: 0.6888918821839081
+             test accuracy: 0.6551
+Step 29000   training accuracy: 0.7026515151515151
+             test accuracy: 0.6572
+Step 29500   training accuracy: 0.6909375
+             test accuracy: 0.6522
+Step 30000   training accuracy: 0.6981734154929577
+             test accuracy: 0.6572
+Step 30500   training accuracy: 0.7265625
+             test accuracy: 0.6527
+Step 31000   training accuracy: 0.69575
+             test accuracy: 0.6617
+Step 31500   training accuracy: 0.6985795454545455
+             test accuracy: 0.6576
+Step 32000   training accuracy: 0.69925
+             test accuracy: 0.6616
+Step 32500   training accuracy: 0.7033390410958904
+             test accuracy: 0.6679
+Step 33000   training accuracy: 0.7083333333333334
+             test accuracy: 0.6644
+Step 33500   training accuracy: 0.70346875
+             test accuracy: 0.6696
+Step 34000   training accuracy: 0.7080965909090909
+             test accuracy: 0.6626
+Step 34500   training accuracy: 0.7099184782608695
+             test accuracy: 0.6649
+Step 35000   training accuracy: 0.71275
+             test accuracy: 0.6684
+Step 35500   training accuracy: 0.7095262096774193
+             test accuracy: 0.6633
+Step 36000   training accuracy: 0.7198660714285714
+             test accuracy: 0.6649
+Step 36500   training accuracy: 0.7163125
+             test accuracy: 0.669
+Step 37000   training accuracy: 0.7225609756097561
+             test accuracy: 0.6722
+Step 37500   training accuracy: 0.71778125
+             test accuracy: 0.6728
+Step 38000   training accuracy: 0.7249124461206896
+             test accuracy: 0.6755
+Step 38500   training accuracy: 0.7293956043956044
+             test accuracy: 0.6757
+Step 39000   training accuracy: 0.72353125
+             test accuracy: 0.6719
+Finished training.
+Test accuracy: 0.679
+    TRUE        PREDICTED
+-----------------------------
+     cat           cat
+    ship          ship
+    ship          ship
+  airplane      airplane
+    frog          frog
+    frog          frog
+ automobile    automobile
+    frog          frog
+     cat           cat
+ automobile    automobile
+  airplane         cat
+    truck         truck
+     dog           dog
+    horse         horse
+    truck         truck
+    ship          ship
+     dog           dog
+    horse          cat
+    ship          ship
+    frog          frog
+    horse         horse
+  airplane        bird
+    deer          deer
+    truck         truck
+     dog          deer
+    bird          bird
+    deer          deer
+  airplane      airplane
+    truck         truck
+    frog          frog
+    frog          frog
+     dog           dog
+    deer          bird
+     dog           cat
+    truck         truck
+    bird           cat
+    deer          horse
+ automobile    automobile
+    truck         truck
+     dog           dog
+    deer          ship
+    frog          frog
+     dog           dog
+    frog          frog
+  airplane      airplane
+    truck         truck
+     cat           dog
+    truck         truck
+    horse         horse
+    frog          frog
+    truck         truck
+    ship          ship
+  airplane        frog
+     cat           cat
+    ship          ship
+    ship          ship
+    horse         horse
+    horse          dog
+    deer           cat
+    frog           cat
+    horse         horse
+     cat           dog
+    frog          frog
+     cat          ship

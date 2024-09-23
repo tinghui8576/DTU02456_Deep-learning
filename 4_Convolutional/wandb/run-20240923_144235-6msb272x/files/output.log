@@ -1,0 +1,31 @@
+Step 500     training accuracy: 0.38590625
+             test accuracy: 0.4002
+Step 1000    training accuracy: 0.40660837155963303
+             test accuracy: 0.4077
+Step 1500    training accuracy: 0.418125
+             test accuracy: 0.4212
+Step 2000    training accuracy: 0.43040424311926606
+             test accuracy: 0.4426
+Step 2500    training accuracy: 0.4424715909090909
+             test accuracy: 0.4498
+Step 3000    training accuracy: 0.4475625
+             test accuracy: 0.465
+Step 3500    training accuracy: 0.4588793682795699
+             test accuracy: 0.4621
+Step 4000    training accuracy: 0.47291666666666665
+             test accuracy: 0.4727
+Step 4500    training accuracy: 0.47490625
+             test accuracy: 0.4809
+Step 5000    training accuracy: 0.48655641233766234
+             test accuracy: 0.4881
+Step 5500    training accuracy: 0.515625
+             test accuracy: 0.4944
+Step 6000    training accuracy: 0.4935
+             test accuracy: 0.4937
+Step 6500    training accuracy: 0.5061475409836066
+             test accuracy: 0.4979
+Step 7000    training accuracy: 0.50575
+             test accuracy: 0.5064
+Step 7500    training accuracy: 0.5085227272727273
+             test accuracy: 0.5091
+Finished training.

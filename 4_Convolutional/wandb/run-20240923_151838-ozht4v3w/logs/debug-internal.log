@@ -1,0 +1,19 @@
+{"time":"2024-09-23T15:18:40.337966+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:18:40.338019+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_151838-ozht4v3w/logs/debug-core.log"}
+{"time":"2024-09-23T15:18:40.338081+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:18:40.338087+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_151838-ozht4v3w/logs/debug-core.log"}
+{"time":"2024-09-23T15:18:40.343281+02:00","level":"INFO","msg":"created new stream","id":"ozht4v3w"}
+{"time":"2024-09-23T15:18:40.343415+02:00","level":"INFO","msg":"stream: started","id":"ozht4v3w"}
+{"time":"2024-09-23T15:18:40.343421+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:18:40.343468+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:18:40.343451+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:18:40.640809+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T15:18:40.641529+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T15:20:11.253624+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T15:24:16.419238+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T15:24:16.419471+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T15:24:18.966965+02:00","level":"INFO","msg":"stream: closing","id":"ozht4v3w"}
+{"time":"2024-09-23T15:24:18.966991+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:24:18.967008+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:24:18.967021+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ozht4v3w"}}
+{"time":"2024-09-23T15:24:18.96711+02:00","level":"INFO","msg":"stream: closed","id":"ozht4v3w"}

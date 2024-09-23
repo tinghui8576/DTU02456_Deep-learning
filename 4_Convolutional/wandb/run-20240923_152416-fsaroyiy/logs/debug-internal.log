@@ -1,0 +1,39 @@
+{"time":"2024-09-23T15:24:19.031873+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:24:19.03218+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_152416-fsaroyiy/logs/debug-core.log"}
+{"time":"2024-09-23T15:24:19.032502+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:24:19.032754+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_152416-fsaroyiy/logs/debug-core.log"}
+{"time":"2024-09-23T15:24:19.050148+02:00","level":"INFO","msg":"created new stream","id":"fsaroyiy"}
+{"time":"2024-09-23T15:24:19.050199+02:00","level":"INFO","msg":"stream: started","id":"fsaroyiy"}
+{"time":"2024-09-23T15:24:19.050212+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:24:19.050249+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:24:19.050233+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:24:19.352791+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T15:24:19.353396+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T15:25:50.148797+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T15:26:04.224946+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:04.256219+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:04.54099+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:04.548164+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:05.455509+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:05.462164+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:05.463167+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:05.469731+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:05.758302+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:05.765616+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:05.854705+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:37.50959+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:37.513922+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:42.495409+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:42.499329+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:48.41107+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:48.412292+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:50.471804+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:50.474952+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T15:26:55.384216+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T15:26:55.395676+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T15:26:55.3957+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T15:26:57.650153+02:00","level":"INFO","msg":"stream: closing","id":"fsaroyiy"}
+{"time":"2024-09-23T15:26:57.650177+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:26:57.650196+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:26:57.650195+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fsaroyiy"}}
+{"time":"2024-09-23T15:26:57.65029+02:00","level":"INFO","msg":"stream: closed","id":"fsaroyiy"}

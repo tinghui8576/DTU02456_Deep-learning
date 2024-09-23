@@ -1,0 +1,14 @@
+{"time":"2024-09-23T15:52:03.961566+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:52:03.961613+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_155201-zry7o0f9/logs/debug-core.log"}
+{"time":"2024-09-23T15:52:03.961659+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T15:52:03.961665+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_155201-zry7o0f9/logs/debug-core.log"}
+{"time":"2024-09-23T15:52:03.968002+02:00","level":"INFO","msg":"created new stream","id":"zry7o0f9"}
+{"time":"2024-09-23T15:52:03.968032+02:00","level":"INFO","msg":"stream: started","id":"zry7o0f9"}
+{"time":"2024-09-23T15:52:03.968034+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zry7o0f9"}}
+{"time":"2024-09-23T15:52:03.96805+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"zry7o0f9"}}
+{"time":"2024-09-23T15:52:03.968063+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zry7o0f9"}}
+{"time":"2024-09-23T15:52:04.222939+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T15:52:04.22355+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T15:53:19.709762+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T16:12:04.871426+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T16:58:34.811352+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}

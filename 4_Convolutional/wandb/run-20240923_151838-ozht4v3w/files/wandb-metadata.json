@@ -1,0 +1,36 @@
+{
+  "os": "macOS-13.4.1-arm64-arm-64bit",
+  "python": "3.12.4",
+  "startedAt": "2024-09-23T13:18:40.338076Z",
+  "program": "/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/4.2-EXE-CNN-CIFAR-10.ipynb",
+  "git": {
+    "remote": "https://github.com/tinghui8576/DTU02456_Deep-learning.git",
+    "commit": "a4ab383f1e36aeb9608cf034830c688477558407"
+  },
+  "email": "tinghui1738cheng@gmail.com",
+  "root": "/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional",
+  "host": "macbook-pro-2.students.clients.local",
+  "username": "tinghui",
+  "executable": "/opt/anaconda3/bin/python",
+  "codePathLocal": "4.2-EXE-CNN-CIFAR-10.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "310586294272"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "gpuapple": {
+    "gpuType": "Apple M2 Pro",
+    "vendor": "sppci_vendor_Apple",
+    "cores": 16
+  }
+}

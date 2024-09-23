@@ -1,0 +1,18 @@
+{"time":"2024-09-23T14:49:10.680031+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:49:10.680073+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_144905-6hc38dec/logs/debug-core.log"}
+{"time":"2024-09-23T14:49:10.680144+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:49:10.680151+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_144905-6hc38dec/logs/debug-core.log"}
+{"time":"2024-09-23T14:49:10.687744+02:00","level":"INFO","msg":"created new stream","id":"6hc38dec"}
+{"time":"2024-09-23T14:49:10.687804+02:00","level":"INFO","msg":"stream: started","id":"6hc38dec"}
+{"time":"2024-09-23T14:49:10.687809+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T14:49:10.687847+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T14:49:10.687831+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T14:49:10.976249+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T14:49:10.97701+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T15:04:22.238354+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T15:04:22.238559+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T15:04:24.674174+02:00","level":"INFO","msg":"stream: closing","id":"6hc38dec"}
+{"time":"2024-09-23T15:04:24.674239+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T15:04:24.674289+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T15:04:24.674321+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"6hc38dec"}}
+{"time":"2024-09-23T15:04:24.674523+02:00","level":"INFO","msg":"stream: closed","id":"6hc38dec"}

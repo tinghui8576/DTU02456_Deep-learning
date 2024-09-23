@@ -1,0 +1,34 @@
+{"time":"2024-09-23T14:42:38.749571+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:42:38.749602+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_144235-6msb272x/logs/debug-core.log"}
+{"time":"2024-09-23T14:42:38.749648+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-23T14:42:38.749653+02:00","level":"INFO","msg":"created symlink","path":"/Users/tinghui/workspace/github/DTU02456_Deep-learning/4_Convolutional/wandb/run-20240923_144235-6msb272x/logs/debug-core.log"}
+{"time":"2024-09-23T14:42:38.75335+02:00","level":"INFO","msg":"created new stream","id":"6msb272x"}
+{"time":"2024-09-23T14:42:38.753389+02:00","level":"INFO","msg":"stream: started","id":"6msb272x"}
+{"time":"2024-09-23T14:42:38.753422+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:42:38.753401+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:42:38.753417+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:42:38.998181+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-23T14:42:38.998553+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-23T14:44:15.808956+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-23T14:44:39.137326+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:11.635515+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:24.527211+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:26.80823+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:31.373798+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:40.130578+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:44.493849+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:53.615761+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:45:56.54046+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:46:12.212258+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:46:31.873522+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:46:47.939405+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:47:31.876145+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:47:47.942414+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-23T14:49:05.124292+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-23T14:49:05.137473+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-23T14:49:05.137508+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-23T14:49:10.631004+02:00","level":"INFO","msg":"stream: closing","id":"6msb272x"}
+{"time":"2024-09-23T14:49:10.631063+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:49:10.631109+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:49:10.631085+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6msb272x"}}
+{"time":"2024-09-23T14:49:10.631348+02:00","level":"INFO","msg":"stream: closed","id":"6msb272x"}
